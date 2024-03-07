@@ -9,6 +9,9 @@ import com.example.coin.databinding.ActivitySelectBinding
 import com.example.coin.view.adapter.SelectRVAdapter
 import timber.log.Timber
 
+// API
+// https://api.bithumb.com/public/ticker/ALL_KRW
+
 class SelectActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivitySelectBinding
